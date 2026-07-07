@@ -66,13 +66,6 @@ This project follows a Star Schema dimensional model for analytics.
 - Data Warehouse using BigQuery
 - Interactive Dashboard using Looker Studio
 - Built using Mage AI on Google Cloud Platform
-
-- ---
-
-## 📒 Data Transformation Notebook
-
-The data transformation logic was developed and tested using a Jupyter Notebook before being implemented in the Mage AI ETL pipeline.
-
 ---
 
 ## 📒 Data Transformation Notebook
