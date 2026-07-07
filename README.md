@@ -29,6 +29,17 @@ The pipeline extracts Uber trip data from Google Cloud Storage, transforms it us
 5. Processed data exported to BigQuery
 6. Dashboard created in Looker Studio
 
+   ---
+
+## ✨ Features
+
+- End-to-End ETL Pipeline
+- Cloud-based Data Processing
+- Automated Data Transformation
+- Data Warehouse using BigQuery
+- Interactive Dashboard using Looker Studio
+- Built using Mage AI on Google Cloud Platform
+
 ---
 
 ## 👨‍💻 Author
