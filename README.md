@@ -67,6 +67,23 @@ This project follows a Star Schema dimensional model for analytics.
 - Interactive Dashboard using Looker Studio
 - Built using Mage AI on Google Cloud Platform
 
+- ---
+
+## 📒 Data Transformation Notebook
+
+The data transformation logic was developed and tested using a Jupyter Notebook before being implemented in the Mage AI ETL pipeline.
+
+### Key Transformations
+
+- Converted raw Uber trip data into analytics-ready format
+- Handled missing values
+- Created dimension tables
+- Built the fact table
+- Prepared data for loading into BigQuery
+
+Notebook:
+- `uber_data_transformation.ipynb`
+
 ---
 
 ## 👨‍💻 Author
