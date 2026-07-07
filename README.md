@@ -28,7 +28,7 @@ transformers/
 data_exporters/
 pipelines/
 bq/
-anayltic/
+analytic/
 dashboard/
 ```
 
