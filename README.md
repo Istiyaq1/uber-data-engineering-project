@@ -25,6 +25,14 @@ The pipeline extracts Uber trip data from Google Cloud Storage, transforms it us
 ## 📈 Looker Studio Dashboard
 
 ![Looker Dashboard](screenshots/looker_dashboard.png)
+
+---
+
+## 🗂️ Dimension Data Model
+
+This project follows a Star Schema dimensional model for analytics.
+
+![Dimension Model](screenshots/dimension_model.png)
 ---
 
 ## 🛠️ Tech Stack
