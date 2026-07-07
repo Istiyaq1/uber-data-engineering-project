@@ -73,6 +73,12 @@ This project follows a Star Schema dimensional model for analytics.
 
 The data transformation logic was developed and tested using a Jupyter Notebook before being implemented in the Mage AI ETL pipeline.
 
+---
+
+## 📒 Data Transformation Notebook
+
+The data transformation logic was developed and tested using a Jupyter Notebook before being implemented in the Mage AI ETL pipeline.
+
 ### Key Transformations
 
 - Converted raw Uber trip data into analytics-ready format
