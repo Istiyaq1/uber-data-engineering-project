@@ -19,6 +19,12 @@ The pipeline extracts Uber trip data from Google Cloud Storage, transforms it us
 ## 📊 BigQuery Output
 
 ![BigQuery Output](screenshots/bigquery_preview.png)
+
+---
+
+## 📈 Looker Studio Dashboard
+
+![Looker Dashboard](screenshots/looker_dashboard.png)
 ---
 
 ## 🛠️ Tech Stack
