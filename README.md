@@ -27,8 +27,9 @@ data_loaders/
 transformers/
 data_exporters/
 pipelines/
-dbt/
-charts/
+bq/
+anayltic/
+dashboard/
 ```
 
 ---
