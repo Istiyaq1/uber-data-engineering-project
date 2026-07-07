@@ -8,6 +8,13 @@ The pipeline extracts Uber trip data from Google Cloud Storage, transforms it us
 
 ---
 
+## 🏗️ Architecture
+
+> **Architecture diagram will be added here.**
+
+
+---
+
 ## 🛠️ Tech Stack
 
 - Python
