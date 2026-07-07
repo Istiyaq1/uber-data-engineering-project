@@ -20,17 +20,14 @@ The pipeline extracts Uber trip data from Google Cloud Storage, transforms it us
 
 ---
 
-## 📂 Project Structure
+## 🔄 Project Workflow
 
-```text
-data_loaders/
-transformers/
-data_exporters/
-pipelines/
-bq/
-analytic/
-dashboard/
-```
+1. Uber trip dataset uploaded to Google Cloud Storage (GCS)
+2. Mage AI running on Google Compute Engine (VM)
+3. Data loaded using Data Loader
+4. Data transformed using Python Transformer
+5. Processed data exported to BigQuery
+6. Dashboard created in Looker Studio
 
 ---
 
