@@ -6,11 +6,11 @@ This project demonstrates an end-to-end ETL pipeline using Mage AI on Google Clo
 
 The pipeline extracts Uber trip data from Google Cloud Storage, transforms it using Python in Mage AI, loads the processed data into BigQuery, and visualizes insights using Looker Studio.
 
----
+--
 
-## 🏗️ Architecture
+## 🏗️ Architecture Diagram
 
-> **Architecture diagram will be added here.**
+![Architecture Diagram](screenshots/architecture.jpg)
 
 ## 🖥️ Mage AI Pipeline
 
