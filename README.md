@@ -12,7 +12,9 @@ The pipeline extracts Uber trip data from Google Cloud Storage, transforms it us
 
 > **Architecture diagram will be added here.**
 
+## 🖥️ Mage AI Pipeline
 
+![Mage AI Pipeline](screenshots/mage_pipeline.png)
 ---
 
 ## 🛠️ Tech Stack
